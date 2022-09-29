@@ -3,12 +3,12 @@ if __name__ == '__main__':
           [10, 20 , 30, 40 , 50],
           [15, 25, 35, 45, 55]
       ]
-   # print(vendas)
+    print(vendas)
 
     for venda in vendas:
-        print(venda)
+        print(f' boas {venda}venda')
         for v in venda:
-            print(v)
+            print(f' lo{v}')
     x = 0
     y = 0
 
