@@ -15,4 +15,4 @@ if __name__ == '__main__':
         if onum not in l1:
             l1 = onum
             break
-            print(f'ola')
+            print(l1[0])

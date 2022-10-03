@@ -6,7 +6,7 @@ ilhas = ['ter', 'pic', 'gra','fai', 'stm']
 tipos = ['gasolina', 'gasoleo']
 
 if __name__ == '__main__':
-    for y in range(2):
+    for x in range(2):
         for y in range(5):
             while True:
                 try:
