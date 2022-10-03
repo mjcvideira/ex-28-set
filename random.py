@@ -5,7 +5,8 @@ def get_random(ini, fim):
     return random.randrange(ini, fim + 1)
 
 
-if __name__ == '__main__':
+
+
     l1 = [0, 0, 0, 0, 0]
     e = [0, 0]
     for x in range(len(l1)):
